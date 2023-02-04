@@ -269,7 +269,7 @@ $I_{RMS}=\frac{325\textup{mV}}{R_{sense}+20\textup{m}\Omega}\cdot\frac{1}{\sqrt{
    ```
 5. Run UBL
    ```
-   M420 S0 ; disable bed leveling
+   M420 S0   ; disable bed leveling
    G28       ; home all axes
    M155 S30  ; reduce temperature reporting rate to reduce output pollution
    M190 S60  ; wait for the bed to get up to temperature
