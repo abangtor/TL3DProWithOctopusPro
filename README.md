@@ -128,7 +128,7 @@ Seems like all fans can be connected directly.
 Use the 2 extra fan plugs (Fan4 & Fan5) in Controller Fan Mode.  
 This disables the fans if there is no driver or MOSFETs in use.
 
-# Firmware
+# [Firmware](https://github.com/abangtor/Marlin4TL3DProWithOctopusPro)
 
 ## Stepper
 
