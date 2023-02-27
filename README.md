@@ -262,7 +262,7 @@ $I_{RMS}=\frac{325\textup{mV}}{R_{sense}+20\textup{m}\Omega}\cdot\frac{1}{\sqrt{
    G30 X154 Y154
    ```
 3. Read out result and calculate  
-   $Z_{M851}=Z_{M851}-Z_{Probe}$
+   $Z_{M851}=Z_{M851}-Z_{Probe}{\color{Gray}-Z{Paper}}$
 4. Write probe offset with  
    ```
    M851 Z#.##
